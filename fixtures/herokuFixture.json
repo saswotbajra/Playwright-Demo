@@ -1,0 +1,49 @@
+{
+  "validUser": {
+    "username": "latestacc@gmail.com",
+    "password": "Asura#123"
+  },
+  "invalidUser": {
+    "username": "incorrectusername",
+    "password": "incorrectpassword"
+  },
+  "contactDetails": {
+    "firstName": "Final Test",
+    "lastName": "Test LastName",
+    "birthdate": "1988-06-12",
+    "email": "testing@gmail.com",
+    "phone": "9845154578",
+    "street1": "Astork",
+    "street2": "Boston",
+    "city": "London",
+    "stateProvince": "Province 2",
+    "postalCode": "425458",
+    "country": "England"
+  },
+  "invalidContactDetails": {
+    "firstName": "",
+    "lastName": "",
+    "birthdate": "",
+    "email": "",
+    "phone": "",
+    "street1": "",
+    "street2": "",
+    "city": "",
+    "stateProvince": "",
+    "postalCode": "",
+    "country": ""
+  },
+  "updateContactDetails": {
+    "firstName": "Updated Name",
+    "lastName": "Updated Last name",
+    "birthdate": "2000-02-02",
+    "email": "update@gmail.com",
+    "phone": "9878451262",
+    "street1": "new address",
+    "street2": "Boston",
+    "city": "London",
+    "stateProvince": "Province 2",
+    "postalCode": "425458",
+    "country": "England"
+  }
+}
